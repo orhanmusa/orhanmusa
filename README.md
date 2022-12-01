@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Orhan
+- 👀 I’m interested in programming on JS, I also have knowledge of HTML, CSS, C++, C#, Oracle
+- 🌱 I’m currently learning Bootstrap, Oracle
+- 💞️ I’m looking for intern position
+- 📫 Contact me through: https://www.linkedin.com/in/orhan-musa-8913941a3/
